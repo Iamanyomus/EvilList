@@ -98,5 +98,4 @@ Generated wordlists can be very large, especially when including symbols and num
 
 This tool is provided for educational purposes only. Unauthorized use may violate laws in your jurisdiction.
 ```
-
 https://github.com/Iamanyomus/EvilList
