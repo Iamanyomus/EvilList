@@ -87,6 +87,9 @@ Generated wordlists can be very large, especially when including symbols and num
 
 ## Screenshots
 
+![Image](https://github.com/user-attachments/assets/9e9441dc-f016-4aae-bfb7-0a39feb2fc63)
+
+
 ![Image](https://github.com/user-attachments/assets/773b43d2-e5b7-4911-a2c2-23211dcf2710)
 
 
