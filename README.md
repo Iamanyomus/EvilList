@@ -19,7 +19,7 @@ EvilList is a tool for generating customized wordlists based on user input. It c
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/EvilList.git
+    git clone https://github.com/Iamanyomus/EvilList/
     cd EvilList
     ```
 
