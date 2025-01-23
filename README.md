@@ -45,8 +45,8 @@ Last name: Doe
 DOB (day): 01
 DOB (month): 01
 DOB (year): 1990
-Special words (comma-separated): password, secret
-Hobbies (comma-separated): reading, hiking
+Special words (comma-separated): password , secret
+Hobbies (comma-separated): reading , hiking
 ```
 
 The generated wordlist will be saved in the [`WordLists`](WordLists ) directory with the filename `John_wordlist.txt`.
